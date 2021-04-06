@@ -1,0 +1,35 @@
+{
+    "redirect": [
+        {
+              
+			    "url_utama": "file:///android_asset/music/playlist.html",
+				"enable_mp3": true,
+                "enable_strap": true,
+                "enable_strap_Splah": false,
+                "ads_on_exit_dialog":true,
+				 
+			     "inter_count": 20,
+                 "startapp": "206558795",
+                 "appid": "pub-3940256099942544_bentar",
+                 "admobappid": "ca-app-pub-3940256099942544~3347511713",
+                 "bannerid": "ca-app-pub-3940256099942544/6300978111_salah",
+                 "interid": "ca-app-pub-3940256099942544/1033173712_bentar",
+         
+		     	 "exit_popup_dialog":
+				 " Demi kelancaran aplikasi ini \n\n tolong bantu beri dukungan kami dengan malakaukan rating bingtang 5",
+				 
+                 "url_more_apps": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2&hl=en",
+                 "rate_button" : "Rating Bintang 5 Sekarang",
+                 "later_button" : "nanti",
+				 "more_button" : "Pilih Aplikasi Lainnya saja",
+				 
+				 "json_popup_wait" : "Loading . . . ."
+				 
+				 
+				 
+				 
+				 
+                 
+        }
+    ]
+}
